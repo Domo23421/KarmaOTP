@@ -10,7 +10,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/vara-github1/LEGENDBOT/",
+  "repository": "https://github.com/Domo23421/KarmaOTP",
   "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
   "success_url": "https://t.me/Legend_Userbot",
   "env": {
@@ -200,8 +200,6 @@
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
-  },{
-    "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
   },{
     "url": "https://github.com/heroku/heroku-buildpack-apt.git"
   },{
